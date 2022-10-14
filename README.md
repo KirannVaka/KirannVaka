@@ -12,6 +12,7 @@
 #### Javascript, HTML and CSS project
 4. memomry-match: This is my first javscript, html and css project. It is a educational matching game with muliple levels. The game gets diffcult as the levels increase and switch tactics every alternate round. For further deatails check the project.
 
+Note: The commits performed are frequent in the above react projects inorder for recruiters to understand my learning skills and thought process.
 
 <!--
 **KirannVaka/KirannVaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
