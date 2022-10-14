@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building react projects to showcase on my portfolio.
 - 🌱 I’m currently learning React and Brusghing up my C# and JavaScript skills.
 
-###If you are a recruiter. Please check out my projects:
+### If you are a recruiter. Please check out my projects:
 #### React Projects
 1. recepie-book: It is a react website that provodies recepies for diffrent meals and lets you save your favorite recepies.
 2. team-member-allocation: A react project to helps managers/employers keep track of teams and thair team members. Ideal for work spaces that have team members working on varios projects.
