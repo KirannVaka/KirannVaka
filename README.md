@@ -7,12 +7,12 @@
 ### If you are a recruiter. Please check out my projects:
 #### React Projects
 ##### Using React Hooks
-1. recepie-book: It is a react website that provodies recepies for diffrent meals and lets you save your favorite recepies.
-2. team-member-allocation: A react project to helps managers/employers keep track of teams and thair team members. Ideal for work spaces that have team members working on varios projects.
+1. **recepie-book**: It is a react website that provodies recepies for diffrent meals and lets you save your favorite recepies.
+2. **team-member-allocation**: A react project to helps managers/employers keep track of teams and thair team members. Ideal for work spaces that have team members working on varios projects.
 ##### Using React Classes
-3. vidly: My first react project that I built following along lectures. This react website is for video rental store. Customers can pick their favorite movies and staff can mange the data on the website. The project in not finished.
+3. **vidly**: My first react project that I built following along lectures. This react website is for video rental store. Customers can pick their favorite movies and staff can mange the data on the website. The project in not finished.
 #### Javascript, HTML and CSS project
-4. memomry-match: This is my first javscript, html and css project. It is a educational matching game with muliple levels. The game gets diffcult as the levels increase and switch tactics every alternate round. For further deatails check the project.
+4. **memomry-match**: This is my first javscript, html and css project. It is a educational matching game with muliple levels. The game gets diffcult as the levels increase and switch tactics every alternate round. For further deatails check the project.
 
 *Note: The commits performed are frequent in the above react projects inorder for recruiters to understand my learning skills and thought process.*
 
