@@ -8,7 +8,7 @@
 #### React Projects
 ##### Using React Hooks
 1. **recepie-book**: It is a react website that provodies recepies for diffrent meals and lets you save your favorite recepies.
-2. **team-member-allocation**: A react project to helps managers/employers keep track of teams and thair team members. Ideal for work spaces that have team members working on varios projects.
+2. [**team-member-allocation**](https://kirannvaka.github.io/team-member-allocation): A react project to helps managers/employers keep track of teams and thair team members. Ideal for work spaces that have team members working on varios projects.
 ##### Using React Classes
 3. **vidly**: My first react project that I built following along lectures. This react website is for video rental store. Customers can pick their favorite movies and staff can mange the data on the website. The project in not finished.
 #### Javascript, HTML and CSS project
