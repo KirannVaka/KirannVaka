@@ -11,7 +11,7 @@
 2. [**team-member-allocation**](https://kirannvaka.github.io/team-member-allocation): A react project to helps managers/employers keep track of teams and thair team members. Ideal for work spaces that have team members working on varios projects.
 ##### Using React Classes
 3. **vidly**: My first react project that I built following along lectures. This react website is for video rental store. Customers can pick their favorite movies and staff can manage the data on the website.
-/
+<br/>
 **The project in not finished. The dependencies used in lectures were old and was leading to errors while building**
 #### Javascript, HTML and CSS project
 4. [**memomry-match**](https://kirannvaka.github.io/Memory-Match/): This is my first javscript, html and css project. It is a educational matching game with muliple levels. The game gets diffcult as the levels increase and switch tactics every alternate round. For further deatails check the project.
