@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+I am an aspiring software developer with a Masters degree in Infromation Technology from Deakin university and with over a year of expeirnce as a software engineering.
 
-- 🔭 I’m currently working on building react projects to showcase on my portfolio.
-- 🌱 I’m currently learning React and Brusghing up my C# and JavaScript skills.
+### My Current Status
+- I'm currently learning node.js to strengthen my back-end skills.
+- I’ve recently acquired React certification and worked on a few react projects.
+- I’m working on building more react projects to showcase on my portfolio.
+- Recently acquired certficates to prove my JavaScript and SQL skills.
 
 ### If you are a recruiter. Please check out my projects:
 #### React Projects
